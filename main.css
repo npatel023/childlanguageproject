@@ -1,0 +1,29 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('bg.jpeg');
+}
+
+.brand-logo {
+    font-family: 'Dancing Script', cursive !important;
+}
+
+.collapsible-header{
+    font-weight: bold;
+}
+
+.collapsible-body{
+    background-color: white;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    height: 90vh;;
+    justify-content: center;
+}
+
+.credit {
+    margin-left: 15px;
+    text-align: center;
+    width: 150px;
+}
